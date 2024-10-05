@@ -1,4 +1,5 @@
 # Practica_1_2do_Parcial
+ALVAREZ DELGADO YAEL ISMAEL 3-W
 Mi Practica 1 del 2do Parcial
 # Ejercio 1
 ![image](https://github.com/user-attachments/assets/05102be0-8b20-4fa2-b3ec-b4eb2f1d2ac6)
