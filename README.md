@@ -9,6 +9,10 @@ Mi Practica 1 del 2do Parcial
 # Resultado
 ![image](https://github.com/user-attachments/assets/997fbba0-2fbc-4f50-8ec7-616efa6acb5d)
 # Ejercicio 5
+![image](https://github.com/user-attachments/assets/473b2a53-22d5-4dfe-ba7a-f1ebbf4fa609)
+# Resultado
+![image](https://github.com/user-attachments/assets/c7262119-c230-4a84-8cd6-5914af228a86)
+
 
 
 
